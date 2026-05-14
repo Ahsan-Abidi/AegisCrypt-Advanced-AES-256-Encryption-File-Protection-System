@@ -1,0 +1,21 @@
+============================================================
+AEGISCRYPT SECURITY ANALYSIS REPORT
+============================================================
+
+Generated On : 2026-05-14 23:08:42.027855
+
+Analyzed File : C:/Users/syedh/OneDrive/Desktop/I.D.A + File Integration Project/integrity/monitored_files/example.txt
+
+SHA-256 HASH:
+3c626750c3af029526b24c8859635092eedc3db4bd35f72bd032e037c827b43b
+
+FILE METADATA:
+File Name: example.txt
+Size (KB): 0.08
+Created: 2026-05-13 00:25:19.370747
+Modified: 2026-05-13 02:48:58.086687
+
+============================================================
+STATUS : VERIFIED
+SECURITY LEVEL : HIGH
+============================================================
